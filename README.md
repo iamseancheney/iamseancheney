@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @iamseancheney
 - 👀 I’m interested in Python, AI/ML, Big Data ...
 - 🌱 I’m currently learning GPT
-- 📫 U can reach me with EMAIL:seancheney@qq.com or WeChat:iamseancheney
+- 📫 U can reach me with EMAIL:seancheney@qq.com
 
 <div align=center>
     <a href="https://item.jd.com/13255935.html">
-        <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obmj8oc6j308w08w3z2.jpg" width="200px">
+        <img src="https://tva1.sinaimg.cn/large/008vxvgGly1h8obmj8oc6j308w08w3z2.jpg" width="150px">
     </a>
 </div>
 <div align=center>
