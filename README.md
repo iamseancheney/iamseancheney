@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamseancheney
-- 👀 I’m interested in Python, AI/ML, Big Data ...
+- 👀 I’m interested in Python, AI/ML, Big Data, IT Book Translation.
 - 🌱 I’m currently learning GPT
-- 📫 U can reach me with EMAIL:seancheney@qq.com
+- 📫 You can reach me with EMAIL:seancheney@qq.com
 
 <div align=center>
     <a href="https://item.jd.com/13255935.html">
@@ -21,9 +21,33 @@
 ***
 
 <div align=center>
-    <img src="http://upload-images.jianshu.io/upload_images/7178691-0d965cf51eb5af9e.png?imageMogr2/auto-orient/strip|imageView2/2/w/1240" width="500px">
+    <p>我的翻译</p>
 </div>
 
+<div align=center>
+<table style="width:100%">    
+    <tr>
+        <td align=center>
+            <img src="https://picx.zhimg.com/80/v2-c0a070bf43bc97de779611f1ee736a11_1440w.png" width="200px">
+        </td>
+        <td align=center>
+            <img src="https://picx.zhimg.com/80/v2-9cae299a9c09fa9bdffff0f1a53f656d_1440w.png" width="200px">
+        </td>
+        <td align=center>
+            <img src="https://picx.zhimg.com/80/v2-c040cab4f59467e81684645c3756495b_1440w.png" width="200px">
+        </td>
+    </tr>
+    <tr align=center>
+        <th>《DeFi与金融的未来》</th>
+        <th>《利用Python进行数据分析》（第3版）</th>
+        <th>《极速Python》</th>
+    </tr>
+</table>
+</div>
+
+<div align=center>
+    <p>敬请指正🤔📝</p>
+</div>
 <!---
 iamseancheney/iamseancheney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
