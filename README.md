@@ -33,16 +33,26 @@
             </a>            
         </td>
         <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-9cae299a9c09fa9bdffff0f1a53f656d_1440w.png" width="200px">
+            <a href="https://item.jd.com/14260998.html">
+                <img src="https://picx.zhimg.com/80/v2-9cae299a9c09fa9bdffff0f1a53f656d_1440w.png" width="200px">
+            </a>            
         </td>
         <td align=center>
-            <img src="https://picx.zhimg.com/80/v2-c040cab4f59467e81684645c3756495b_1440w.png" width="200px">
+            <a href="https://item.jd.com/14121183.html">
+                <img src="https://picx.zhimg.com/80/v2-c040cab4f59467e81684645c3756495b_1440w.png" width="200px">
+            </a>            
         </td>
     </tr>
     <tr align=center>
-        <th>《DeFi与金融的未来》</th>
-        <th>《利用Python进行数据分析》（第3版）</th>
-        <th>《极速Python》</th>
+        <th>
+            <a href="https://item.jd.com/13621529.html">《DeFi与金融的未来》</a>
+        </th>
+        <th>
+            <a href="https://item.jd.com/14260998.html">《利用Python进行数据分析》（第3版）</a>
+        </th>
+        <th>
+            <a href="https://item.jd.com/14121183.html">《极速Python》</a>
+        </th>
     </tr>
 </table>
 </div>
