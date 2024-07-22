@@ -28,7 +28,7 @@
         </td>
         <td align=center>
             <a href="https://item.jd.com/14260998.html">
-                <img src="https://picx.zhimg.com/80/v2-9cae299a9c09fa9bdffff0f1a53f656d_1440w.png" width="200px">
+                <img src="https://pic1.zhimg.com/80/v2-3eb393173a0c734cfa8a9cd38fc7e583_1440w.png" width="200px">
             </a>            
         </td>
         <td align=center>
@@ -47,6 +47,26 @@
         <th>
             <a href="https://item.jd.com/14121183.html">《极速Python》</a>
         </th>
+    </tr>
+    <tr>
+        <td align=center>
+            <a href="https://item.jd.com/14626214.html">
+                <img src="https://pic1.zhimg.com/80/v2-0091018bb1a6f1c8d4aad0aacba66596_1440w.png" width="200px">
+            </a>            
+        </td>
+        <td align=center>
+            <a href="https://item.jd.com/14622022.html">
+                <img src="https://pic1.zhimg.com/80/v2-c7890e7c5b8d1080d6e4f8623f48fd06_1440w.png" width="200px">
+            </a>            
+        </td>        
+    </tr>
+    <tr align=center>
+        <th>
+            <a href="https://item.jd.com/14626214.html">《LaTeX入门实战》</a>
+        </th>
+        <th>
+            <a href="https://item.jd.com/14622022.html">《Ray分布式机器学习》</a>
+        </th>        
     </tr>
 </table>
 </div>
