@@ -42,7 +42,7 @@
             <a href="https://item.jd.com/13621529.html">《DeFi与金融的未来》</a>
         </th>
         <th>
-            <a href="https://item.jd.com/14260998.html">《利用Python进行数据分析》（第3版）</a>
+            <a href="https://item.jd.com/14260998.html">《利用Python进行数据分析·第3版》</a>
         </th>
         <th>
             <a href="https://item.jd.com/14121183.html">《极速Python》</a>
